@@ -1,0 +1,7 @@
+contexts:
+- data:
+    output_dir: chat-processed
+    services_dir: chat-services
+    templates_dir: chat-templates
+  name: chat
+current: chat
