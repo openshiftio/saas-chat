@@ -1,6 +1,6 @@
 services:
 - hash: f2cf7f90f65214143db61c42fb06d0dda3eebaa6
   hash_length: 7
-  name: 
+  name: chat-integrations-gitlab
   path: /github/openshift/mattermost-gitlab.app.yaml
   url: https://github.com/rhdt/chat-integrations
