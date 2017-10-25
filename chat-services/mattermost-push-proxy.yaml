@@ -1,5 +1,5 @@
 services:
-- hash: 33879f4852fc7ac13d759e60191418920d97904e
+- hash: 574da75fcf04a5ebb6d3251f9c4b347ae2b58bd4
   hash_length: 7
   name: chat-push-proxy
   path: /openshift/mattermost-push-proxy.app.yaml
