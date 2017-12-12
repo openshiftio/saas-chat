@@ -1,0 +1,6 @@
+services:
+- hash: None
+  hash_length: 7
+  name: chat-integrations-penfold-mongo
+  path: /mongodb/openshift/mongodb.app.yaml
+  url: https://github.com/rhdt/penfold
