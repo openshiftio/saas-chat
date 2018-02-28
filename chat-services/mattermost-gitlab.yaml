@@ -1,5 +1,5 @@
 services:
-- hash: None
+- hash: 197c52e79ecc0b1e30b452b836563ff38921077b
   hash_length: 7
   name: chat-integrations-gitlab
   path: /gitlab/openshift/mattermost-gitlab.app.yaml
