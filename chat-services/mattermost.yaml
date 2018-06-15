@@ -1,5 +1,5 @@
 services:
-- hash: cd14de5f15edd3a6a10aed5886160c58ef8ee93b
+- hash: 0480316b75a3ccd3b3c8001f7512be30776e3e19
   hash_length: 7
   name: chat
   path: /openshift/mattermost.app.yaml
