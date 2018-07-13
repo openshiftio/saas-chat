@@ -1,5 +1,5 @@
 services:
-- hash: 35f8121890adf6f2fce2b4147244714b057b73e5
+- hash: bdd81575923b3141298693b43854350771ea6c91
   hash_length: 7
   name: chat-integrations-irc
   path: /irc/openshift/mattermost-irc-bridge.app.yaml
