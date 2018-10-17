@@ -4,4 +4,9 @@ contexts:
     services_dir: chat-services
     templates_dir: chat-templates
   name: chat
+  environments:
+    production:
+      namespace: chat-production
+    staging:
+      namespace: chat-preview
 current: chat
