@@ -1,5 +1,5 @@
 services:
-- hash: 197c52e79ecc0b1e30b452b836563ff38921077b
+- hash: bdd81575923b3141298693b43854350771ea6c91
   hash_length: 7
   name: chat-integrations-github
   path: /github/openshift/mattermost-github.app.yaml
